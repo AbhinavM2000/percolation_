@@ -1,3 +1,8 @@
+This code analyses an image and finds the number of clusters, number of elements in each cluster, center of each cluster, distance between the centers, minimum distance between each cluster, site occupation probability etc.
+
+
+
+
 All attachments and images should be in the same folder.
 
 testim.m is the main file, it contains detailed comments.
