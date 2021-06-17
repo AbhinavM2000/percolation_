@@ -12,3 +12,6 @@ Code includes the following major updates
 - finds the exact r,g,b colour threshold (from average graythresh) above/below which image is binarized 
 - function to compute distance between center of two clusters added
 - function to compute minimum distance between two clusters added
+
+
++Added lines to show significant clusters
