@@ -13,5 +13,5 @@ Code includes the following major updates
 - function to compute distance between center of two clusters added
 - function to compute minimum distance between two clusters added
 
-Updates
+Update
 + Added lines to show significant clusters
