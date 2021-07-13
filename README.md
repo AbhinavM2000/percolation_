@@ -12,4 +12,4 @@ Creating a computer model to simulate percolation phenomenon.
 
 Some to dos
 * Obtain experimental data for image analysis.
-* Develop Open MPI & Python code for paralell processing on a HPC cluster.
+* Develop Open MPI & C code for paralell processing on a HPC cluster.
