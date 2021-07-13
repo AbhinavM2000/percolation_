@@ -10,7 +10,6 @@ Creating a computer model to simulate percolation phenomenon.
 
 >Last updated: 17-6-2021
 
-To do
-* Open MPI & Python for paralell processing on a compute cluster.
+Some to dos
 * Obtain experimental data for image analysis.
-*
+* Develop Open MPI & Python code for paralell processing on a compute cluster.
