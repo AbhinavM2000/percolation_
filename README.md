@@ -6,8 +6,8 @@ Creating a computer model to simulate percolation phenomenon.
 
 
 
-(percolation-final-20.pdf is based on the older fortran code.)
-
+('percolation-final-20.pdf' is based on the older fortran code.)
+('image analysis percolation.pdf' is based on Image analysis code)
 >Last updated: 17-6-2021
 
 Some to dos
